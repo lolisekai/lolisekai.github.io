@@ -1,7 +1,7 @@
 title:              LoliSekai
 email:              daygone@1nj3ct0r.my.id
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+author:             Loli Sekai
 baseurl:            "./"
 url:                "https://lolisekai.github.io"
 
@@ -13,6 +13,9 @@ linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Disqus setting
+comments: true
 
 # Build settings
 markdown:           kramdown
