@@ -2,7 +2,7 @@ title:              LoliSekai
 email:              daygone@1nj3ct0r.my.id
 description:        A Blog Theme by Start Bootstrap
 author:             Loli Sekai
-baseurl:            "./"
+baseurl:            "/blog"
 url:                "https://lolisekai.github.io"
 
 # Social Profiles
