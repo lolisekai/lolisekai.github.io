@@ -1,3 +1,12 @@
+---
+layout: page
+comments: false
+title: Disqus here
+description: This is what I do.
+background: '/img/bg-about.jpg'
+---
+
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -18,4 +27,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
+{% endif %}
